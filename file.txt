@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 first commit
 some change
 second change
+=======
+first commit
+>>>>>>> parent of 3863216... some change in file.txt
